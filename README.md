@@ -1,17 +1,12 @@
 <div align="left">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
+
 
 <h3><code>nabakrishna@github</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="avi-ascii.svg" width="370" alt="nkh" /></td>
 <!-- <td valign="top"><img src="./wordmark.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
 </tr> -->
 </table>
