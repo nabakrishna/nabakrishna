@@ -5,7 +5,7 @@
         <img src="avi-ascii.svg" width="100%" alt="nkh" />
       </td>
       <td valign="top" width="60%">
-        <h3>👨‍💻 About Me</h3>
+        <h3> About Me</h3>
         <ul>
           <li><b>Integrated M.Tech CSE</b> (Computational & Data Science)</li>
           <li>Focused on <b>Computer Vision, Deep Learning & System Design</b></li>
@@ -13,7 +13,7 @@
           <li>Reach out: <a href="mailto:nabakrishna0111@gmail.com">nabakrishna0111@gmail.com</a></li>
         </ul>
         <br>
-        <h4>🌐 Connect with me:</h4>
+        <h4> Connect with me:</h4>
         <p>
           <a href="https://linkedin.com/in/nabakrishna09"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
           <a href="https://github.com/nabakrishna"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
@@ -67,21 +67,30 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
 
-# 📊 Coding & GitHub Stats:
+#  LeetCode Stats:
 
 <p align="center">
   <a href="https://leetcode.com/u/Naba_Krishna">
-    <img src="https://github-readme-leetcode-card.romitsagu.com/Naba_Krishna?theme=tokyonight" alt="LeetCode Stats" />
+    <img src="https://github-readme-leetcode-card.romitsagu.com/Naba_Krishna?theme=tokyonight" alt="LeetCode Stats" style="filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.6));" />
   </a>
 </p>
 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=nabakrishna&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
-<!-- [![](https://komarev.com/ghpvc/?username=nabakrishna&icon=0&color=0)](https://visitcount.itsvg.in) -->
-<img src="https://komarev.com/ghpvc/?username=nabakrishna&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+#  GitHub Stats:
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; border-collapse: collapse;">
+  <tr style="background: transparent;">
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 15px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border: none; background: transparent; filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.6));" />
+    </td>
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 15px;">
+      <img src="https://streak-stats.demolab.com/?user=nabakrishna&theme=transparent&hide_border=true" alt="GitHub Streak" style="border: none; background: transparent; filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.6));" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle" style="border: none; background: transparent; padding: 15px;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border: none; background: transparent; filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.6));" />
+    </td>
+  </tr>
+</table>
