@@ -19,6 +19,10 @@
           <a href="https://github.com/nabakrishna"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
           <a href="https://x.com/NabaKrishna01"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
           <a href="https://instagram.com/nabakrishna_hazz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+          <a href="https://leetcode.com/u/Naba_Krishna"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+        </p>
+        <p>
+          <img src="https://komarev.com/ghpvc/?username=nabakrishna&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
         </p>
       </td>
     </tr>
@@ -67,14 +71,13 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Naba_Krishna">
-    <img src="https://github-readme-leetcode-card.romitsagu.com/Naba_Krishna?theme=dark&show=graph" alt="LeetCode Stats Graph" />
+    <img src="https://github-readme-leetcode-card.romitsagu.com/Naba_Krishna?theme=tokyonight" alt="LeetCode Stats" />
   </a>
 </p>
 
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-
-<!-- ![](https://github-readme-stats.shion.dev/api?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) -->
 
 ![](https://streak-stats.demolab.com/?user=nabakrishna&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
