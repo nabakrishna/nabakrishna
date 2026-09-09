@@ -63,11 +63,22 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nabakrishna&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nabakrishna&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nabakrishna&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 Coding & GitHub Stats:
 
+<p align="center">
+  <a href="https://leetcode.com/u/Naba_Krishna">
+    <img src="https://github-readme-leetcode-card.romitsagu.com/Naba_Krishna?theme=dark&show=graph" alt="LeetCode Stats Graph" />
+  </a>
+</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+
+
+<!-- ![](https://github-readme-stats.shion.dev/api?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) -->
+
+![](https://streak-stats.demolab.com/?user=nabakrishna&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nabakrishna&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=nabakrishna&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<img src="https://komarev.com/ghpvc/?username=nabakrishna&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
