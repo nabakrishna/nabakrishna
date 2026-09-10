@@ -77,6 +77,14 @@
 
 ---
 
+# Codeforces Stats
+
+<div align="center">
+  <a href="https://codeforces.com/profile/nabakrishna">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=nabakrishna&theme=transparent" alt="Codeforces Stats" />
+  </a>
+</div>
+
 #  GitHub Stats:
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; border-collapse: collapse;">
@@ -84,9 +92,12 @@
     <td align="center" valign="middle" style="border: none; background: transparent; padding: 15px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nabakrishna&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="border: none; background: transparent; filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.6));" />
     </td>
-    <td align="center" valign="middle" style="border: none; background: transparent; padding: 15px;">
+    <!-- <td align="center" valign="middle" style="border: none; background: transparent; padding: 15px;">
       <img src="https://streak-stats.demolab.com/?user=nabakrishna&theme=transparent&hide_border=true" alt="GitHub Streak" style="border: none; background: transparent; filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.6));" />
-    </td>
+    </td> -->
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 15px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabakrishna&theme=transparent&hide_border=true" alt="GitHub Streak" style="border: none; background: transparent; filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.6));" />
+</td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle" style="border: none; background: transparent; padding: 15px;">
