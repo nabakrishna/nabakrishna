@@ -7,9 +7,9 @@
       <td valign="top" width="60%">
         <h3> About Me</h3>
         <ul>
-          <li><b>Integrated M.Tech CSE</b> (Computational & Data Science)</li>
-          <li>Focused on <b>Computer Vision, Deep Learning & System Design</b></li>
-          <li>Building full-stack web applications and AI-driven systems</li>
+          <!-- <li><b>Integrated M.Tech CSE</b> (Computational & Data Science)</li> -->
+          <li>Focused on <b>Data Engineer, AIML & System Design</b></li>
+          <!-- <li>Bui</li> -->
           <li>Reach out: <a href="mailto:nabakrishna0111@gmail.com">nabakrishna0111@gmail.com</a></li>
         </ul>
         <br>
