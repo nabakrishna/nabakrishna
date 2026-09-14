@@ -20,6 +20,7 @@
           <a href="https://x.com/NabaKrishna01"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
           <a href="https://instagram.com/_nabakrishna_hazz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
           <a href="https://leetcode.com/u/Naba_Krishna"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+          <a href="https://codeforces.com/profile/nabakrishna"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white" alt="Codeforces" /></a>
         </p>
         <p>
           <img src="https://komarev.com/ghpvc/?username=nabakrishna&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
